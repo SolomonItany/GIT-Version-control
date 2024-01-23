@@ -1,10 +1,1 @@
-Git Configuration
-
-To configure email address:
-git config --global user.email "itanysolo@gmail.com"
-
-To configure user name:
-git config --global user.name "sitany"
-
-check user name and email configrations:
-git config --list
+ my name is solo
